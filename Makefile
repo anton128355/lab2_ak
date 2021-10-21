@@ -13,4 +13,4 @@ calculator.o: calculator.cpp
 	$(CC) $(CFLAGS) calculator.cpp
 
 clean:
-	rm -rf *.o hello
+	rm -rf *.o lab2
